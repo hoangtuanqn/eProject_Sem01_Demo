@@ -1,0 +1,44 @@
+[
+    {
+        "year": 2018,
+        "totalCustomers": 1200,
+        "newCustomers": 1200,
+        "growthRate": 0
+    },
+    {
+        "year": 2019,
+        "totalCustomers": 2400,
+        "newCustomers": 1200,
+        "growthRate": 100
+    },
+    {
+        "year": 2020,
+        "totalCustomers": 3600,
+        "newCustomers": 1200,
+        "growthRate": 50
+    },
+    {
+        "year": 2021,
+        "totalCustomers": 5200,
+        "newCustomers": 1600,
+        "growthRate": 44.4
+    },
+    {
+        "year": 2022,
+        "totalCustomers": 7800,
+        "newCustomers": 2600,
+        "growthRate": 50
+    },
+    {
+        "year": 2023,
+        "totalCustomers": 9600,
+        "newCustomers": 1800,
+        "growthRate": 23.1
+    },
+    {
+        "year": 2024,
+        "totalCustomers": 12000,
+        "newCustomers": 2400,
+        "growthRate": 25
+    }
+]

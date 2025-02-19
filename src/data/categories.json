@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Shirts",
+        "image": "/assets/imgs/category-1.jpg",
+        "slug": "shirts"
+    },
+    {
+        "id": 2,
+        "name": "Skirts",
+        "image": "/assets/imgs/category-2.jpg",
+        "slug": "skirts"
+    },
+    {
+        "id": 3,
+        "name": "Frocks",
+        "image": "/assets/imgs/category-3.jpg",
+        "slug": "frocks"
+    },
+    {
+        "id": 4,
+        "name": "P.T. T-shirts",
+        "image": "/assets/imgs/category-4.jpg",
+        "slug": "pttshirts"
+    },
+    {
+        "id": 5,
+        "name": "P.T. shorts",
+        "image": "/assets/imgs/category-5.jpg",
+        "slug": "ptshorts"
+    },
+    {
+        "id": 6,
+        "name": "P.T. track pants",
+        "image": "/assets/imgs/category-6.jpg",
+        "slug": "pttrackpants"
+    },
+    {
+        "id": 7,
+        "name": "Belts",
+        "image": "/assets/imgs/category-7.jpg",
+        "slug": "belts"
+    },
+    {
+        "id": 8,
+        "name": "Ties",
+        "image": "/assets/imgs/category-8.jpg",
+        "slug": "ties"
+    },
+    {
+        "id": 9,
+        "name": "Logos",
+        "image": "/assets/imgs/category-9.jpg",
+        "slug": "logos"
+    },
+    {
+        "id": 10,
+        "name": "Socks",
+        "image": "/assets/imgs/category-10.jpg",
+        "slug": "socks"
+    }
+]
